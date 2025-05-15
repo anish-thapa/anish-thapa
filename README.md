@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building coo
 
 ## 🚀 About Me
 
-- 🧠 Currently learning **Devops**
-- 🛠️ Exploring **open source**, **automation**, and **cloud development**
+- 🧠 Currently learning **DevOps**
+- 🛠️ Exploring **open source, automation, and cloud development**
 - 💬 Ask me about **JavaScript, Python, Docker, GitHub Actions**, or anything tech!
 
 ---
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building coo
 
 **Frameworks & Tools:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -30,17 +30,26 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building coo
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+---
 
+## 📊 GitHub Stats
 
-### 🟩 Contribution Heatmap
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anish-thapa&theme=github)
-
-
-## 📈 GitHub Stats
-
-
-![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anish-thapa&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anish-thapa&layout=compact&theme=github_dark)
+| <img src="https://github-readme-stats.vercel.app/api?username=anish-thapa&show_icons=true&theme=github_dark&hide_border=true" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish-thapa&layout=compact&theme=github_dark&hide_border=true" height="150" /> |
+|---|---|
 
 ---
-_Thanks for stopping by! ⭐️ If you like what you see, give a star and let’s connect!_
+
+## 🟩 Contribution Heatmap
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anish-thapa&theme=github-compact)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anishxthapa)
+
+
+---
+
+_Thanks for stopping by! ⭐ Feel free to star some projects and connect!_
