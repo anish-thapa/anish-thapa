@@ -6,11 +6,9 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building coo
 
 ## 🚀 About Me
 
-- 🧠 Currently learning **[Your Current Focus, e.g. DevOps, Rust, Machine Learning]**
-- 🔨 Working on **[Project or Area of Interest]**
+- 🧠 Currently learning **Devops**
 - 🛠️ Exploring **open source**, **automation**, and **cloud development**
 - 💬 Ask me about **JavaScript, Python, Docker, GitHub Actions**, or anything tech!
-- ⚡ Fun fact: I love turning caffeine into code ☕🚀
 
 ---
 
@@ -32,12 +30,17 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building coo
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
+
+
+### 🟩 Contribution Heatmap
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anish-thapa&theme=github)
+
 
 ## 📈 GitHub Stats
+
 
 ![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anish-thapa&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anish-thapa&layout=compact&theme=github_dark)
 
 ---
-
+_Thanks for stopping by! ⭐️ If you like what you see, give a star and let’s connect!_
